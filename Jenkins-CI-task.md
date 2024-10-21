@@ -4,10 +4,6 @@
 
 In this assignment, you will set up two Jenkins jobs for two different JavaScript applications. This will help you understand both Freestyle and Pipeline jobs in Jenkins.
 
-Here's a detailed step-by-step guide for your students to create a CI pipeline for a plain JavaScript todo-list app and a counter app using Jenkins. This guide includes installation instructions and documentation links for reference.
-
----
-
 # CI Pipeline Assignment: Todo List and Counter Apps
 
 ## Part 1: Jenkins Freestyle Project for Todo List App
