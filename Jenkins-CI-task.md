@@ -1,6 +1,6 @@
 # Task: Jenkins CI/CD for JavaScript Applications
 
-**Deadline: October 25th, 2024**
+**Deadline: October 26th, 2024**
 
 In this assignment, you will set up two Jenkins jobs for two different JavaScript applications. This will help you understand both Freestyle and Pipeline jobs in Jenkins.
 
